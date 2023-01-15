@@ -50,6 +50,8 @@ PostgreSQL - Relational database management system.
 
 
 ## Arquitectura del sistema** 🏛
+
+Se utilizó el Modelo-Vista-Controlador
 ![image](https://user-images.githubusercontent.com/107648922/212517874-83f0f90b-2a76-4443-a433-fdd60993bd51.png)
 
 
