@@ -62,6 +62,9 @@ Se utilizó el Modelo-Vista-Controlador
 
 **Para la implementación de conexion del Backend y Frontend se tuvieron inconvenientes con el Thymeleaf**
 
+![image](https://user-images.githubusercontent.com/107648922/212520950-a4b30ce6-48e8-45bb-884b-a19a2e88e5ca.png)
+
+
 
 
 Autora ✒️
