@@ -12,7 +12,8 @@ import org.springframework.test.annotation.Rollback;
 class EstacionEspacialApplicationTests {
 
 /*
-	@Autowired private NaveRepository repo;
+	@Autowired
+	private NaveRepository repo;
 
 	@Test
 	public void testAddNew() {

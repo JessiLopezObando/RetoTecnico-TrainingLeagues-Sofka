@@ -1,10 +1,9 @@
 package com.retosofka.estacionespacial.repositories;
 
-import com.retosofka.estacionespacial.models.NaveDTO;
-import org.springframework.data.repository.CrudRepository;
+import com.retosofka.estacionespacial.entities.Nave;
+import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface NaveRepository extends CrudRepository<NaveDTO,Long> {
+public interface NaveRepository extends JpaRepository<Nave,Long> {
 }
-
