@@ -1,6 +1,8 @@
 # RetoTecnico-TrainingLeagues-Sofka
 ## Aplicacion web 🚀
 
+**Importante: El proyecto se encuentra en la rama master**
+
 En este reto se desarrolla una proyecto (aplicación web) a partir de una lectura, utilizando conceptos claves de programación orientada a objetos.
 
 Aquí está el enlace de la lectura
