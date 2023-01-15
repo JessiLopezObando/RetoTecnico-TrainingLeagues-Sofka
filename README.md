@@ -54,6 +54,14 @@ PostgreSQL - Relational database management system.
 Se utilizó el Modelo-Vista-Controlador
 ![image](https://user-images.githubusercontent.com/107648922/212517874-83f0f90b-2a76-4443-a433-fdd60993bd51.png)
 
+## Importante
+
+**Para probar el proyecto, utilizarlo de forma local, con localhost:8080**
+
+**postgres está en el puerto 5432**
+
+**Para la implementación de conexion del Backend y Frontend se tuvieron inconvenientes con el Thymeleaf**
+
 
 
 Autora ✒️
