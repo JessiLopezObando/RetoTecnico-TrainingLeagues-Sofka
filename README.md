@@ -3,6 +3,8 @@
 
 **Importante: El proyecto se encuentra en la rama master**
 
+**Enlace del video explicatico sobre el proyecto**  https://youtu.be/TEYP42a8APs
+
 En este reto se desarrolla una proyecto (aplicación web) a partir de una lectura, utilizando conceptos claves de programación orientada a objetos.
 
 Aquí está el enlace de la lectura
